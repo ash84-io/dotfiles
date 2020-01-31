@@ -1,5 +1,8 @@
 .PHONY: brew rust python docker jetbrains
 
+home
+	cp ./.* ~/
+
 zsh:
 	zsh.sh
 
