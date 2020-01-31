@@ -7,6 +7,4 @@
 brew update
 brew install starship
 brew install zsh 
-brew install tree 
-
-
+brew install tree
