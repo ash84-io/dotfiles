@@ -1,22 +1,19 @@
 .PHONY: brew rust python docker jetbrains
 
-home
+home:
 	cp ./.* ~/
 
 zsh:
-	zsh.sh
+	./zsh.sh
 
 brew:
-	brew.sh 
+	./brew.sh 
 
 rust:
-	rush.sh
-
-python:
-	python.sh
+	./rust.sh
 
 docker:
-	docker.sh
+	./docker.sh
 
 jetbrains:
-	jetbrains.sh
+	./jetbrains.sh

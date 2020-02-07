@@ -7,8 +7,7 @@
 - SYSTEM
 ```shell 
 > make brew
-> make zsh
-> make docker
+> make zsh 
 > make python
 > make rust
 > make home 
@@ -26,8 +25,7 @@
 ├── .zshrc
 ├── Makefile
 ├── README.md
-├── brew.sh
-├── docker.sh
+├── brew.sh 
 ├── python.sh
 ├── rust.sh
 └── zsh.sh
@@ -42,6 +40,8 @@
 - [iterm2](https://iterm2.com/downloads.html)
 - [slack](https://slack.com/intl/en-kr/downloads/mac)
 - [notion](https://www.notion.so/desktop)
+- [docker](https://hub.docker.com/?overlay=onboarding)
+- [keka](https://www.keka.io/ko/)
 
 
 ### references

@@ -3,7 +3,7 @@
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # Add path to .profile
-echo 'export PATH="$HOME/.cargo/bin:$PATH"' >> ~/.profile
+echo 'PATH="$HOME/.cargo/bin:$PATH"' >> ~/.profile
 
 # install system packages 
 cargo install exa
