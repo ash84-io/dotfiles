@@ -101,3 +101,19 @@ source $ZSH/oh-my-zsh.sh
 # THEME : starship
 eval "$(starship init zsh)"
 
+alias l='exa'
+alias la='exa -a'
+alias ll='exa -lah'
+alias ls='exa --color=auto'
+alias av='aws-vault'
+
+alias github='/usr/bin/open -a "/Applications/Google Chrome.app" "https://github.com"'
+alias cal='/usr/bin/open -a "/Applications/Google Chrome.app" "https://calendar.google.com/calendar/u/0/r"'
+alias gc='git switch -c'
+alias gs='git switch'
+alias gp='git push -u origin \"$(git rev-parse --abbrev-ref HEAD)\"'
+alias create-pr='gh pr create -d --title'
+alias only-main='git branch | grep -v "main" | xargs git branch -D'
+alias gm='git switch main && git pull'
+alias m2='make format && make check && echo 🏎 '
+alias m3='make format && make check && make test'

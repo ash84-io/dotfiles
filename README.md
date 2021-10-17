@@ -45,7 +45,6 @@
 
 
 ### references
-- [터미널 초보의 필수품인 Oh My ZSH!를 사용하자
-](https://nolboo.kim/blog/2015/08/21/oh-my-zsh/)
-
+- [터미널 초보의 필수품인 Oh My ZSH!를 사용하자](https://nolboo.kim/blog/2015/08/21/oh-my-zsh/)
 - [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
+- [aws-vault 사용법: AWS의 인증 정보 안전하게 사용하기](https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault)
