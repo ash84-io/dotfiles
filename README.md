@@ -42,6 +42,8 @@
 - [notion](https://www.notion.so/desktop)
 - [docker](https://hub.docker.com/?overlay=onboarding)
 - [keka](https://www.keka.io/ko/)
+- [alfred](https://www.alfredapp.com/) with PowerPack 
+- [magnet](https://apps.apple.com/kr/app/magnet-%EB%A7%88%EA%B7%B8%EB%84%B7/id441258766?mt=12)
 
 
 ### references
