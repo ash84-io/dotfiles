@@ -28,8 +28,15 @@
 ├── brew.sh 
 ├── python.sh
 ├── rust.sh
-└── zsh.sh
+├── zsh.sh
+└── gh/                    # GitHub CLI 도구
+    ├── README.md          # 사용법 가이드
+    ├── sync-git-user.sh   # Git 사용자 동기화
+    └── switch-github-user.sh # GitHub 계정 전환
 ```
+
+### tools
+- [GitHub CLI 계정 관리 도구](gh/README.md) - GitHub CLI 계정 전환과 Git 사용자 설정 동기화
 
 
 ### setup programs
